@@ -1,0 +1,12 @@
+{
+  "name": "proyecttt",
+  "version": "1.0.0",
+  "description": "![alt text](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
